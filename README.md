@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikram Budania</h1>
 <h3 align="center">A passionate Cyber Enthusiast from India</h3>
-<img src="https://imgs.search.brave.com/HLxed82KF_l6V1Bidi3fRY5MU4VdkRmbH55pJ-gkADs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9lZHVj/YXRpb25hbHZvaWNl/LmNvLnVrL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI0LzA1L2lt/YWdlLTc2LmpwZWc" alt="vikram40404" />
+<img src="https://imgs.search.brave.com/HLxed82KF_l6V1Bidi3fRY5MU4VdkRmbH55pJ-gkADs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9lZHVj/YXRpb25hbHZvaWNl/LmNvLnVrL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI0LzA1L2lt/YWdlLTc2LmpwZWc" style="align=left" alt="vikram40404" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram40404&label=Profile%20views&color=0e75b6&style=flat" alt="vikram40404" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram40404" alt="vikram40404" /></a> </p>
